@@ -1,0 +1,107 @@
+commit 27fb7731bbbdca00626ccd8ef6a8b782e60b946c
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Wed Mar 1 23:56:29 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure... DB interface is done. UserDB might be finished... I think Professor is done but Lamdas are weird...Student is done? again Lamdas are weird... Course Comparator was done but I forgot to Git when i finished it. Backend might be done but I wont know until I test it. I added everything I needed to SIS so it handles the commands. Now everything is properly commented.
+
+commit 2cd9129fce4d0a133c8bf6cf6c058d79ccaf7399
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Wed Mar 1 22:21:59 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure... DB interface is done. UserDB might be finished... I think Professor is done but Lamdas are weird...Student is done? again Lamdas are weird... Course Comparator was done but I forgot to Git when i finished it. Backend might be done but I wont know until I test it. I added everything I needed to SIS so it handles the commands. Now everything is properly commented.
+
+commit 1d2f1d8d9f28841280eecd0efd7c5aa52bb07289
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Wed Mar 1 22:17:55 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure... User interface is done. UserDB might be finished... I think Professor is done but Lamdas are weird...Student is done? again Lamdas are weird... Course Comparator was done but I forgot to Git when i finished it. Backend might be done but I wont know until I test it. I added everything I needed to SIS so it handles the commands.
+
+commit c5bd7eb111e7f2ac1c4f81e902c7941b28cbd10f
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Wed Mar 1 22:12:03 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure... User interface is done. UserDB might be finished... I think Professor is done but Lamdas are weird...Student is done? again Lamdas are weird... Course Comparator was done but I forgot to Git when i finished it. Backend might be done but I wont know until I test it. I added everything I needed to SIS so it handles the commands.
+
+commit e5611d01feafc43b224a315a805b194cb9cd7ced
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Wed Mar 1 22:11:10 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure... User interface is done. UserDB might be finished... I think Professor is done but Lamdas are weird...Student is done? again Lamdas are weird... Course Comparator was done but I forgot to Git when i finished it. Backend might be done but I wont know until I test it. I added everything I needed to SIS so it handles the commands.
+
+commit 809a94723525cbb6a58f3613dbea532b05ebe34c
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Wed Mar 1 22:09:58 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure... User interface is done. UserDB might be finished... I think Professor is done but Lamdas are weird...Student is done? again Lamdas are weird... Course Comparator was done but I forgot to Git when i finished it. Backend might be done but I wont know until I test it
+
+commit 6324ceda6583a52f535c0ca8ba20cb713b6aa7cb
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Wed Mar 1 22:09:17 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure... User interface is done. UserDB might be finished... I think Professor is done but Lamdas are weird...Student is done? again Lamdas are weird... Course Comparator was done but I forgot to Git when i finished it. Backend might be done but I wont know until I test it
+
+commit a29ac1cab294d5cdabb1d783e49c1cbcda3b2dd6
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Wed Mar 1 22:06:48 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure... User interface is done. UserDB might be finished... I think Professor is done but Lamdas are weird...Student is done? again Lamdas are weird... Course Comparator was done but I forgot to Git when i finished it. Backend might be done but I wont know until I test it
+
+commit 9cff27eb9268b35d582ba176815e59570efda129
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Wed Mar 1 22:04:02 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure... User interface is done. UserDB might be finished... I think Professor is done but Lamdas are weird...Student is done? again Lamdas are weird... Course Comparator was done but I forgot to Git when i finished it. Backend might be done but I wont know until I test it
+
+commit f8985102b7ad8b52550130075bca235e3ebd5710
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 28 23:49:09 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure... User interface is done. UserDB might be finished... I think Professor is done but Lamdas are weird...Student is done? again Lamdas are weird... Course Comparator was done but I forgot to Git when i finished it. Backend might be done but I wont know until I test it
+
+commit ff4432e3520cf5684414cdbe09a4e88e44082f2b
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 28 22:32:41 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure... User interface is done. UserDB might be finished... I think Professor is done but Lamdas are weird...Student is done? again Lamdas are weird... Course Comparator was done but I forgot to Git when i finished it.
+
+commit 73dd3550962e999b0c18ffee774364d523ed617b
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 28 22:30:46 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure... User interface is done. UserDB might be finished... I think Professor is done but Lamdas are weird...Student is done? again Lamdas are weird...
+
+commit 30646a9c24622f66af7496bb851a27f1d027daf5
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 28 22:29:41 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure... User interface is done. UserDB might be finished... I think Professor is done but Lamdas are weird
+
+commit 23d79881a5384399f6a434f984fcd92ae3e63a6f
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Mon Feb 27 20:49:37 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure... User interface is done. UserDB might be finished...
+
+commit c812091a426f402c6aa9d2929201c76d9b6d0e82
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Mon Feb 27 20:13:40 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure... User interface is done.
+
+commit 95d93274f3c3316ecff1675de7f0a68b41a3a027
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Mon Feb 27 20:13:19 2017 -0500
+
+    User is done... I think... Course now passes the test file. CourseDB is done... I'm pretty sure...
+
+commit a01dadb51019d7c231006ba7f40d8666ef4a7483
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Mon Feb 27 19:45:46 2017 -0500
+
+    User is done... I think... Course now passes the test file.
+
+commit d5c5becb769e659c365cd8f745aafcaafb5790a8
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Mon Feb 27 19:45:20 2017 -0500
+
+    User is done... I think...

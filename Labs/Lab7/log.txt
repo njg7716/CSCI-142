@@ -1,0 +1,35 @@
+commit 685a830696d68acf18b14adb4b95a7c15e4274a4
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Apr 25 23:36:19 2017 -0400
+
+    Appointment is complete. I can Run Kal PTUI so im assuming Appointment and Calendar are complete. The GUI is not fully functional but it is the best i could do. It doesnt read from a file.
+
+commit bc921f96032a883888826fb2ff28b35d06bc9d99
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Apr 25 23:33:34 2017 -0400
+
+    Appointment is complete. I can Run Kal PTUI so im assuming Appointment and Calendar are complete. The GUI is not fully functional but it is the best i could do. It doesnt read from a file.
+
+commit ef8d5bd909ca539a5a0e585cb8914d3c9ec6621e
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Apr 25 23:30:22 2017 -0400
+
+    Appointment is complete. I can Run Kal PTUI so im assuming Appointment and Calendar are complete. The GUI is not fully functional but it is the best i could do. It doesnt read from a file.
+
+commit c4fb1a1dc2705e80050b431892f34f7dc22ede5a
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Apr 25 18:05:41 2017 -0400
+
+    Appointment is complete. I can Run Kal PTUI so im assuming Appointment and Calendar are complete.
+
+commit e96af1eafc4a31701aa8a262b0df17d9aa3d3e81
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Apr 25 18:04:56 2017 -0400
+
+    Appointment is complete.
+
+commit b6d6aa14ab624b7c888f66224d639747ffc5ad15
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Mon Apr 24 18:10:49 2017 -0400
+
+    Appointment is complete.

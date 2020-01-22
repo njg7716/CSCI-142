@@ -1,0 +1,173 @@
+commit 6345b80c0e9762d015db51069019ecaa928f3cd9
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 22:23:49 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Choppa is complete. EnemyBase is now Complete. Battlefield is mow complete. All the documentation for the files that I created are finished.
+
+commit cf7a2f55680cc98f1c103617a55d32e7e4f080ff
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 22:23:27 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Choppa is complete. EnemyBase is now Complete. Battlefield is mow complete. All the documentation for the files that I created are finished.
+
+commit 1088fcdeedc2187e3d1c3534a6a8e7a03e2b6a28
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 22:23:02 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Choppa is complete. EnemyBase is now Complete. Battlefield is mow complete. All the documentation for the files that I created are finished.
+
+commit 8d556c2ccebcb965cd25a2a4ceef0d2789506670
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 22:22:06 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Choppa is complete. EnemyBase is now Complete. Battlefield is mow complete. All the documentation for the files that I created are finished.
+
+commit db44e1f8352e1189c9519eb240a1775e01c65d82
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 22:20:43 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Choppa is complete. EnemyBase is now Complete. Battlefield is mow complete.
+
+commit 005a0416f2bbb5d6e8083a0ec83f8e0ca542fe0f
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 22:19:35 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Choppa is complete. EnemyBase is now Complete. Battlefield is mow complete.
+
+commit b686f710b52f7c8a23712d94aeb833c44589293e
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 22:17:17 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Choppa is complete. EnemyBase is now Complete. Battlefield is mow complete.
+
+commit a3456d991adc0394096a0c9cd2142235eb7f6098
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 22:12:20 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Choppa is complete. EnemyBase is now Complete. Battlefield is mow complete.
+
+commit be732dc53def457dd8fdc5db54c29c292f572bf0
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 22:10:47 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Choppa is complete. EnemyBase is now Complete. Battlefield is mow complete.
+
+commit 93dceb058fa3dc9fefb0882bf76b78a351578ca5
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 22:08:18 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Choppa is complete. EnemyBase is now Complete. Battlefield is mow complete.
+
+commit c64438fdbca59f6c87808df787e9d27dca25d1a0
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 22:03:28 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Enemy base is complete. EnemyBase is now Complete. Battlefield is mow complete.
+
+commit cf6170a1742967c1072a03357d96fa0b84849a64
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 22:00:08 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Enemy base is complete. EnemyBase is now Complete. Battlefield is mow complete.
+
+commit 2b77d7f3e6832bf05fc9bb08551da55c0580db35
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 19:59:42 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Enemy base is complete. EnemyBase is now Complete.
+
+commit ad9cc58cbed8565862fd99d79083f02adf9ab67f
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 19:33:24 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Enemy base is complete.
+
+commit eeca702a37ff8767401fc84335798dce7f8b6f4e
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 19:29:30 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Enemy base is complete.
+
+commit bc972736c2d8fc3570a2552cf9495350c5c15dfe
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 19:28:43 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Enemy base is complete.
+
+commit c0e1d1df10a5f5434d4ee636b1cb834f0d27139c
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 19:20:26 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed. Enemy base is complete.
+
+commit 3e332197fb3924feedb742f87873c1164272fa4a
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 18:50:00 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed.
+
+commit e8a6b56154bfcf8f25ec8e4ab336968c92b8adfa
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 17:33:45 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed. Bunker class has been completed.
+
+commit 6c48a885430b8569b7595b01e232667606b53003
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 16:57:38 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed. Hostage class has been completed.
+
+commit e2c00e7fc55e2d7c8478212f7afff19edde8ddcf
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 16:52:00 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed. Guerilla class has been completed.
+
+commit 4209e44e34db909981c361dd8a68feb92598c1ad
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 16:47:21 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed.
+
+commit 4adad7b747960d75b0bf0728b4e67a1dcb359d45
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 16:41:49 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Player interface has been completed. Soldier class has been completed.
+
+commit c7403bdc23290f4c1ed0f37148412d1a6511146a
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 16:41:10 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed. Soldier class has been completed.
+
+commit a83baae7724613351c324e650627579d913efc09
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 16:31:46 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests. Predator Class has been completed.
+
+commit be632d442b45548ad4317301865b4f8b8ab2edf9
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 16:13:04 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests.
+
+commit 418ab768b16fe31504a72a10358d0cc49277976c
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 14 00:08:52 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests.
+
+commit df0847576d2bafdfc9fbb5be7d9d4901ed3ba37f
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Mon Feb 13 23:56:24 2017 -0500
+
+    StackNode passes all the tests. QueueNode passes all the tests.
+
+commit 7ef40a5a8a767507ea0af3aab60604fb30e3a4c7
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Mon Feb 13 22:55:13 2017 -0500
+
+    StackNode passes all the tests.

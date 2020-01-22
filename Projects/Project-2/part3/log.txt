@@ -1,0 +1,124 @@
+commit bdd41c032ffeecbbb446aa0a0634af146a3ddafd
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Sat Apr 22 15:18:31 2017 -0400
+
+    Everything should be complete and functional.
+
+commit a1b93bd50d38c7ffea52e33b5fc3af74ba26c453
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Fri Apr 21 20:15:28 2017 -0400
+
+    Everything should be complete and functional.
+
+commit 8b00945d1b045c3159c0778cef42f9e0cd46e834
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Sat Apr 8 15:13:33 2017 -0400
+
+    Everything should be complete and functional.
+
+commit 15f2eccc5805d76554c10c2c49f547bdefe21169
+Merge: d969a0c 6bb47c4
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Sat Apr 8 15:13:07 2017 -0400
+
+    Everything should be complete and functional.
+
+commit 6bb47c4a22b03a61042b767f1c194c8cefe1829e
+Merge: 7ef2cee 0061f2a
+Author: Jacob Brown <jmb7438@rit.edu>
+Date:   Fri Apr 7 19:11:58 2017 -0400
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       Players/nickandjake/Part2.java
+
+commit 7ef2ceea7b87e34eb7b2dff31cc045db18f5df98
+Author: Jacob Brown <jmb7438@rit.edu>
+Date:   Fri Apr 7 19:10:12 2017 -0400
+
+    "Finished implementation for dijkstra(), findCost(), findLowest(), and getDijkstraNeighbors"
+
+commit d969a0cc343135cd2f4153572deb3b1d6acb5eef
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Fri Apr 7 18:04:54 2017 -0400
+
+    Changed Everything to work with a 2D Array of ints and completed the allLegalMoves function.
+
+commit 5a622dc2b63c8372654d8365db63af73ead02523
+Author: Jacob Brown <jmb7438@rit.edu>
+Date:   Fri Apr 7 12:19:53 2017 -0400
+
+    "Updated comments for the file, allLegalMoves(), fewestSegments ToVictory(), otherPlayersInvalidated(), and move(). Additionally, the implementation for fewestSegments ToVictory(), move() was finished"
+
+commit 0061f2aa5a3d186c9b859fae2ca9e5ef3552c775
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Fri Apr 7 00:20:44 2017 -0400
+
+    Changed Everything to work with a 2D Array of ints and completed the allLegalMoves function.
+
+commit 90989f2660b3efef44be9edbbefd40c4a8888520
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Fri Apr 7 00:13:50 2017 -0400
+
+    Changed Everything to work with a 2D Array of ints and completed the allLegalMoves function.
+
+commit 03fb577cc023eea2151d215682aa16afee3ce0d7
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Fri Apr 7 00:13:28 2017 -0400
+
+    Changed Everything to work with a 2D Array of ints and completed the allLegalMoves function.
+
+commit 23d0fbcb7d6a756d3699f10dd23a0f02f6664716
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Fri Apr 7 00:12:29 2017 -0400
+
+    Changed Everything to work with a 2D Array of ints and completed the allLegalMoves function.
+
+commit 3a786cf3c2918a098e543bf166de1a06538c59ea
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Wed Apr 5 20:50:29 2017 -0400
+
+    Changed Everything to work with a 2D Array of ints and completed the allLegalMoves function.
+
+commit cf9592bccc64d8b478e6d56f5fef22b6f04a75b9
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Mar 28 18:25:24 2017 -0400
+
+    Done. Done
+
+commit 785fc18a4a020f6403d45a634e6a32f497d33b62
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Mar 28 18:24:28 2017 -0400
+
+    For Part 2 of the project, I think I completed the allLegalMoves function.
+
+commit a7dfbebc52e359d892698d697939404e5eb055ac
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Thu Mar 23 16:31:42 2017 -0400
+
+    Done. Done
+
+commit 02d9d5ba33bbcd20e61c2638a3b5a79b574d62f6
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Thu Mar 23 16:25:32 2017 -0400
+
+    Done. Done
+
+commit ef84ef4840954cb4332a57c436c32628bc16606d
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Thu Mar 23 16:25:19 2017 -0400
+
+    Done. Done
+
+commit 74344208d7c57260d8867d6459f46429071e0ae5
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Thu Mar 23 16:03:40 2017 -0400
+
+    Done. Done
+
+commit fb945dcc48fad7e9854fc6be62424aca52e0f192
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Thu Mar 23 16:03:30 2017 -0400
+
+    Done

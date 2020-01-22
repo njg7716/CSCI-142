@@ -1,0 +1,47 @@
+commit ee349fbda55c63e491933820ac18a2ecf9ff792b
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 7 23:41:24 2017 -0500
+
+    Completed implementation of Vehicle class, Completed the implementation of the ParkingSpot class, Completed the implementation of the ParkingLot class, I think ParkingOfficer works...
+
+commit 32ccecf174c4338f42fdc511445a1da569c40824
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 7 23:39:44 2017 -0500
+
+    Completed implementation of Vehicle class, Completed the implementation of the ParkingSpot class, Completed the implementation of the ParkingLot class, I think ParkingOfficer works...
+
+commit 15de4c52219eab59b200fb4e572429d8b2b21d1d
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 7 23:35:30 2017 -0500
+
+    Completed implementation of Vehicle class, Completed the implementation of the ParkingSpot class, Completed the implementation of the ParkingLot class, I think ParkingOfficer works...
+
+commit 0d21f5591febd7786ee91d8010c462a876a5cf6d
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 7 23:32:27 2017 -0500
+
+    Completed implementation of Vehicle class, Completed the implementation of the ParkingSpot class, Completed the implementation of the ParkingLot class,
+
+commit 540cb5ee860133608b8f04ec58b1157f2745878e
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 7 21:05:20 2017 -0500
+
+    Completed implementation of Vehicle class, Completed the implementation of the ParkingSpot class, Completed the implementation of the ParkingLot class,
+
+commit b9286d505c072fa31126e87802bbe2dbf0491d8d
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 7 19:01:43 2017 -0500
+
+    Completed implementation of Vehicle class, Completed the implementation of the ParkingSpot class
+
+commit 2f0a4477715a3169f13d7007569466fe38b939f2
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Mon Feb 6 18:48:59 2017 -0500
+
+    Completed implementation of Vehicle class
+
+commit 8081c5e89844bea247a9297539fc31c64edad32b
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Thu Feb 2 22:25:25 2017 -0500
+
+    Completed implementation of Vehicle class

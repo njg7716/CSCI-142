@@ -1,0 +1,29 @@
+commit 919e8f85079b0848a4ef0754fd6ceceb8f98c4f2
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Wed Mar 22 22:32:10 2017 -0400
+
+    Completed the Node class. Completed the class that does all the important stuff.
+
+commit f6db6010f6d8a9b468d5bf763e0032c4b62f9435
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Wed Mar 22 19:57:20 2017 -0400
+
+    Completed the Node class.
+
+commit 6b82716f90273a9d1e46234b0b8b006af87c1226
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Wed Mar 22 00:21:11 2017 -0400
+
+    Completed the Node class.
+
+commit 2219943944369f2cd9986a084c9f8a3ef8ffe638
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Mar 21 13:56:52 2017 -0400
+
+    Completed the Node class.
+
+commit 9882b57b7584a347e3506d9538c2442e19900aea
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Mar 21 13:36:01 2017 -0400
+
+    Completed the Node class.

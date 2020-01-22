@@ -1,0 +1,59 @@
+commit 4c130af4bfe01de0dbaf8e8609488f0ad206daa2
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 21 22:56:42 2017 -0500
+
+    Panel Simulator is complete. Circuit is complete. MultiComponent is complete. Component is complete. Receptacle is complete. Appliance is complete.
+
+commit 2e34f7cb8b2c41a69d47773be62500b2b55b99f2
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 21 22:50:08 2017 -0500
+
+    Panel Simulator is complete. Circuit is complete. MultiComponent is complete. Component is complete. Receptacle is complete. Appliance is complete.
+
+commit fc25be43fd1ed26d700702c1b7cdcd3340a05c7b
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 21 22:44:01 2017 -0500
+
+    Panel Simulator is complete. Circuit is complete. MultiComponent is complete. Component is complete. Receptacle is complete.
+
+commit e22bd5f3aaf5133494c9724969c82fc18a24f65e
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 21 22:39:29 2017 -0500
+
+    Panel Simulator is complete. Circuit is complete. MultiComponent is complete. Component is complete.
+
+commit 51439337d798de991d6c6835165b133f2cba96cb
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 21 22:30:22 2017 -0500
+
+    Panel Simulator is complete. Circuit is complete. MultiComponent is complete. Component is complete.
+
+commit 2e07ae92ff0ad5417bc743771a84a7aa4bd0f379
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Tue Feb 21 22:29:17 2017 -0500
+
+    Panel Simulator is complete. Circuit is complete. MultiComponent is complete. Component is complete.
+
+commit 618a787d5580618521cfbd058e3be0f8948a1dbe
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Mon Feb 20 22:22:12 2017 -0500
+
+    Panel Simulator is complete. Circuit is complete. MultiComponent is complete. Component is complete.
+
+commit 75d9ed109a0d9b97684eb526c10ac7c0a22a0c62
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Mon Feb 20 22:21:38 2017 -0500
+
+    Panel Simulator is complete. Circuit is complete. MultiComponent is complete.
+
+commit 340ab0749466aec9242fec0a7ef8854aaecb9046
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Mon Feb 20 22:21:06 2017 -0500
+
+    Panel Simulator is complete. Circuit is complete.
+
+commit 6bc7d4383d27e9fa474776dabd1143e40a71fcdb
+Author: Nick Graca <njg7716@rit.edu>
+Date:   Mon Feb 20 22:20:11 2017 -0500
+
+    Circuit is complete.
